@@ -1,0 +1,236 @@
+[
+  {
+    "id": "h_finder_explore",
+    "title": "Height Explorer",
+    "category": "TRIGONOMETRY",
+    "file_name": "height_finder_explore",
+    "difficulty": "Beginner",
+    "mission_mode": "EXPLORE",
+    "is_visible": true
+  },
+  {
+    "id": "acoustic_explore",
+    "title": "Acoustic Explorer",
+    "category": "ACOUSTICS",
+    "file_name": "acoustic_lab_explore",
+    "difficulty": "Beginner",
+    "mission_mode": "EXPLORE",
+    "is_visible": false
+  },
+  {
+    "id": "acoustic_energy_explore",
+    "title": "Acoustic Energy Explorer",
+    "category": "ACOUSTICS",
+    "file_name": "acoustic_energy_explore",
+    "difficulty": "Beginner",
+    "mission_mode": "EXPLORE",
+    "is_visible": true
+  },
+  {
+    "id": "acoustic_doppler_explore",
+    "title": "Acoustic Doppler Freq Explorer",
+    "category": "ACOUSTICS",
+    "file_name": "acoustic_doppler_explore",
+    "difficulty": "Beginner",
+    "mission_mode": "EXPLORE",
+    "is_visible": false
+  },
+  {
+    "id": "acoustic_log_explore",
+    "title": "Acoustic Decibels Explorer",
+    "category": "ACOUSTICS",
+    "file_name": "acoustic_db_master_explore",
+    "difficulty": "Beginner",
+    "mission_mode": "EXPLORE",
+    "is_visible": false
+  },
+  {
+    "id": "vibration_explore",
+    "title": "Vibration Explorer",
+    "category": "ACOUSTICS",
+    "file_name": "vibration_explore",
+    "difficulty": "Beginner",
+    "mission_mode": "EXPLORE",
+    "is_visible": true
+  },
+  {
+    "id": "urban_earth_mag_explore",
+    "title": "Urban Earth Magnetism Mapper",
+    "category": "MAGNETISM",
+    "file_name": "urban_earth_magnet",
+    "difficulty": "Beginner",
+    "mission_mode": "EXPLORE",
+    "is_visible": false
+  },
+  {
+    "id": "friction_detection_explore",
+    "title": "Friction Explorer",
+    "category": "MOTION",
+    "file_name": "friction_detection_explore",
+    "difficulty": "Beginner",
+    "mission_mode": "EXPLORE",
+    "is_visible": false
+  },
+  {
+    "id": "gravity_vector_explore",
+    "title": "Gravity Vector Explorer",
+    "category": "MOTION",
+    "file_name": "gravity_vector_explore",
+    "difficulty": "Beginner",
+    "mission_mode": "EXPLORE",
+    "is_visible": false
+  },
+  {
+    "id": "gravity_plumb_bob_explore",
+    "title": "Gravity Plumb Bob Explorer",
+    "category": "MOTION",
+    "file_name": "gravity_plumb_bob",
+    "difficulty": "Beginner",
+    "mission_mode": "EXPLORE",
+    "is_visible": false
+  },
+  {
+    "id": "gravity_zero_g_explore",
+    "title": "Gravity Zero-G Explorer",
+    "category": "MOTION",
+    "file_name": "gravity_zero_g_explore",
+    "difficulty": "Beginner",
+    "mission_mode": "EXPLORE",
+    "is_visible": false
+  },
+  {
+    "id": "light_trace_explorer",
+    "title": "Light Trace Explorer",
+    "category": "OPTICS",
+    "file_name": "light_trace_explore",
+    "difficulty": "Beginner",
+    "mission_mode": "EXPLORE",
+    "is_visible": false
+  },
+  {
+    "id": "light_photosynthesis_explorer",
+    "title": "Photosynthesis Explorer",
+    "category": "OPTICS",
+    "file_name": "light_photosynthesis_explore",
+    "difficulty": "Beginner",
+    "mission_mode": "EXPLORE",
+    "is_visible": true
+  },
+  {
+    "id": "light_sun_shadow_explorer",
+    "title": "Sun Shadow Explorer",
+    "category": "OPTICS",
+    "file_name": "light_sun_shadow_explore",
+    "difficulty": "Beginner",
+    "mission_mode": "EXPLORE",
+    "is_visible": true
+  },
+  {
+    "id": "magnetism_flux_explorer",
+    "title": "Magnetic Flux Explorer",
+    "category": "MAGNETISM",
+    "file_name": "magnetic_flux_explore",
+    "difficulty": "Beginner",
+    "mission_mode": "EXPLORE",
+    "is_visible": false
+  },
+  {
+    "id": "pressure_height_explorer",
+    "title": "Pressure vs Height Explorer",
+    "category": "PRESSURE",
+    "file_name": "pressure_height_explore",
+    "difficulty": "Beginner",
+    "mission_mode": "EXPLORE",
+    "is_visible": false
+  },
+  {
+    "id": "h_finder_exp",
+    "title": "Height Finder",
+    "category": "TRIGONOMETRY",
+    "file_name": "height_finder_experiment",
+    "difficulty": "Beginner",
+    "mission_mode": "EXPERIMENT",
+    "is_visible": true
+  },
+  {
+    "id": "h_finder_exp_tare",
+    "title": "Height Finder With Tare",
+    "category": "TRIGONOMETRY",
+    "file_name": "height_finder_experiment_tare",
+    "difficulty": "Beginner",
+    "mission_mode": "EXPERIMENT",
+    "is_visible": false
+  },
+  {
+    "id": "gravity_zero_height_finder",
+    "title": "Height Finder With Gravity",
+    "category": "MOTION",
+    "file_name": "gravity_zero_g_height_finder",
+    "difficulty": "Beginner",
+    "mission_mode": "EXPERIMENT",
+    "is_visible": false
+  },
+  {
+    "id": "d_finder_exp",
+    "title": "Distance Finder",
+    "category": "TRIGONOMETRY",
+    "file_name": "distance_finder_experiment",
+    "difficulty": "Intermediate",
+    "mission_mode": "EXPERIMENT",
+    "is_visible": true
+  },
+  {
+    "id": "l_albedo_exp",
+    "title": "Albedo of Surface",
+    "category": "OPTICS",
+    "file_name": "light_albedo_experiment",
+    "difficulty": "Intermediate",
+    "mission_mode": "EXPERIMENT",
+    "is_visible": false
+  },
+  {
+    "id": "l_transparency_exp",
+    "title": "Transparency of Material",
+    "category": "OPTICS",
+    "file_name": "light_transparency_experiment",
+    "difficulty": "Intermediate",
+    "mission_mode": "EXPERIMENT",
+    "is_visible": true
+  },
+  {
+    "id": "l_inv_sqr_d_exp",
+    "title": "Light vs Distance",
+    "category": "OPTICS",
+    "file_name": "light_inv_sqr_dist_exp",
+    "difficulty": "Intermediate",
+    "mission_mode": "EXPERIMENT",
+    "is_visible": false
+  },
+  {
+    "id": "sound_decay_exp",
+    "title": "Sound vs Distance",
+    "category": "ACOUSTICS",
+    "file_name": "sound_decay_experiment",
+    "difficulty": "Intermediate",
+    "mission_mode": "EXPERIMENT",
+    "is_visible": false
+  },
+  {
+    "id": "earth_magnetism_map_exp",
+    "title": "Earth Magnetism Mapper",
+    "category": "MAGNETISM",
+    "file_name": "earth_magnetic_map_experiment",
+    "difficulty": "Intermediate",
+    "mission_mode": "EXPERIMENT",
+    "is_visible": true
+  },
+  {
+    "id": "h_finder_cha",
+    "title": "Skyscraper",
+    "category": "TRIGONOMETRY",
+    "file_name": "height_finder_challenge",
+    "difficulty": "Expert",
+    "mission_mode": "CHALLENGE",
+    "is_visible": true
+  }
+]
