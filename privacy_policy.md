@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 # Privacy Policy for Krama
 
 **Last Updated:** June 2026
