@@ -1,10 +1,5 @@
----
-layout: null
----
 
 # Privacy Policy for Krama
-
-**Last Updated:** June 2026
 
 ## 1. Overview
 
@@ -49,3 +44,5 @@ As Krama evolves, we may add new features and sensors. This policy will be updat
 ## 8. Contact
 
 For questions about this policy, contact: [your contact email]
+
+**Last Updated:** June 2026
