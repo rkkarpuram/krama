@@ -43,6 +43,6 @@ As Krama evolves, we may add new features and sensors. This policy will be updat
 
 ## 8. Contact
 
-For questions about this policy, contact: [your contact email]
+For questions about this policy, contact: vekdev01@gmail.com
 
 **Last Updated:** June 2026
