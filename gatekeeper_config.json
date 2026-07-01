@@ -1,0 +1,21 @@
+{
+  "minimum_supported_version": 1,
+  "system_status": "ACTIVE",
+  "testers": [
+    {
+      "email": "tismekumar@gmail.com",
+      "token": "ALPHA",
+      "allow_access": true
+    },
+    {
+      "email": "kburagad@gmail.com",
+      "token": "1179",
+      "allow_access": true
+    },
+    {
+      "email": "sandycruise@gmail.com",
+      "token": "1269",
+      "allow_access": true
+    }
+  ]
+}
