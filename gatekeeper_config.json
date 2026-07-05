@@ -1,6 +1,10 @@
 {
   "minimum_supported_version": 1,
   "system_status": "ACTIVE",
+  "feature_toggles": {
+    "enable_explore_image_share": true,
+    "enable_experiment_image_generation": true
+  },
   "testers": [
     {
       "email": "tismekumar@gmail.com",
